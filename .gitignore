@@ -3,3 +3,4 @@
 **/.terraform/providers/*
 .terraform/
 /Users/oluwafemisobakin/Labs-devops/.terraform/
+*./.terraform/*
